@@ -1,1 +1,2 @@
 # karaokebar
+Una práctica básica de Git se refiere a una serie de acciones y comandos utilizados para administrar y controlar versiones de proyectos en un repositorio Git. Estas prácticas permiten a los desarrolladores trabajar de manera colaborativa, realizar un seguimiento de los cambios realizados en el código y facilitar la implementación de nuevas funcionalidades o la corrección de errores.
